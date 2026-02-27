@@ -1,3 +1,4 @@
+compounds/water.xyz
 compounds/ESM.sdf
 compounds/NAX.sdf
 compounds/cyclosporin_a.sdf
