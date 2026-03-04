@@ -13,5 +13,7 @@ proteins/3J3A.pdb
 proteins/3J3A.xyz
 proteins/4HHB.pdb
 proteins/4HHB.xyz
+proteins/6CGV.pdb
+proteins/6CGV.xyz
 proteins/6VXX.pdb
 proteins/6VXX.xyz
